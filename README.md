@@ -16,6 +16,7 @@ Front end
 Back end
 
 
+<img width="526" alt="Screenshot 2023-10-24 at 18 55 24" src="https://github.com/Futurefree/Console-Finances/assets/80590464/fe8704e7-4925-4e2d-b37d-1573226a224d">
 
 
 
