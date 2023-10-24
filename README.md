@@ -10,7 +10,7 @@ Please see below screenshots of the code at the fixed changes;
 
 Front end
 
-
+<img width="1426" alt="Screenshot 2023-10-24 at 19 22 09" src="https://github.com/Futurefree/Console-Finances/assets/80590464/c926e2c9-c262-4c63-b02d-e32c229d7aea">
 
 
 Back end
